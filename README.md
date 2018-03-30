@@ -33,17 +33,13 @@
 
 #### 참고자료
 
-1. [git-1][git-1]
-2. [git-2][git-2]
-3. [git-3][git-3]
+1. [git-1](https://git-scm.com/book/ko/v1/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+3. [git-2](https://opentutorials.org/course/2708)
+2. [git-3](https://github.com/rjs1197/training/blob/master/git/README.md)
 
-4. [python-1][python-1]
-5. [python-2][python-2]
+4. [python-1](http://pythonstudy.xyz/)
+5. [python-2](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C/)
+6. [python-3](https://github.com/rjs1197/training/blob/master/python/README.md)
 
-[git-1]: https://git-scm.com/book/ko/v1/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0
-[git-2]: https://github.com/rjs1197/training/blob/master/git/README.md
-[git-3]: https://opentutorials.org/course/2708
-[python-1]: http://pythonstudy.xyz/
-[python-2]: https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C/
 
 

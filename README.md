@@ -42,4 +42,16 @@
 6. [python-3](https://github.com/rjs1197/training/blob/master/python/README.md)
 
 
+## 1주차 스터디 내용
+
+### Machine Learning basic
+
+#### 발표자료
+
+1. [강길환](/)
+2. [고명진](/)
+3. [김희건](/)
+4. [유영주](/)
+5. [조윤환](/)
+
 

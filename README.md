@@ -59,10 +59,10 @@
 
 #### 발표자료
 
-1. [강길환](/)
-2. [고명진](/)
-3. [김희건](/)
-4. [유영주](/)
-5. [조윤환](/)
+1. [강길환](/lecture/1st_week_kkh.docx)
+2. [고명진](/lecture/1st_week_kmg.md)
+3. [김희건](/lecture/1st_week_khg.docx)
+4. [유영주](/lecture/1st_week_yyj.md)
+5. [조윤환](/lecture/1st_week_jyh.md)
 
 

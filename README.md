@@ -41,17 +41,16 @@
 5. [python-2](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C/)
 6. [python-3](https://github.com/rjs1197/training/blob/master/python/README.md)
 
-
 ## 1주차 스터디 내용
 
 ### Machine Learning basic
 
 #### 발표자료
 
-1. [강길환](/)
-2. [고명진](/)
-3. [김희건](/)
-4. [유영주](/)
-5. [조윤환](/)
+1. [강길환 - Linear Regression & minimize cost Algorithm.](/lecture/1st_week_kkh.docx)
+2. [고명진 - 딥러닝의 시작](/lecture/1st_week_kmg.md)
+3. [김희건 - Relation to AI, ML, DL.](/lecture/1st_week_khg.docx)
+4. [유영주 - Machine Learning의 용어, Hypothesis, cost 설명](/lecture/1st_week_yyj.md)
+5. [조윤환 - ](/lecture/1st_week_jyh.md)
 
 

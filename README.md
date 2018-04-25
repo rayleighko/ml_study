@@ -43,7 +43,7 @@
 
 ## 1주차 스터디 내용
 
-### Machine Learning basic
+### Machine Learning / Deep Learning basic
 
 #### 발표자료
 
@@ -65,4 +65,17 @@
 4. [유영주](/lecture/1st_week_yyj.md)
 5. [조윤환](/lecture/1st_week_jyh.md)
 
+
+## 2주차 스터디 내용
+
+### Deep Learning Started
+
+#### 발표자료
+
+1. [강길환 - ](/lecture/2nd_week_kkh.docx)
+2. [고명진 - ](/lecture/2nd_week_kmj.md)
+3. [김희건 - ](/lecture/2nd_week_khg.docx)
+4. [유영주 - ](/lecture/2nd_week_yyj.md)
+5. [조윤환 - ](/lecture/2nd_week_jyh.docx)
+6. [허지훈 - ](/lecture/2nd_week_hjh.docx)
 

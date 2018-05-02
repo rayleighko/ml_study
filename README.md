@@ -53,29 +53,16 @@
 4. [유영주 - Machine Learning의 용어, Hypothesis, cost 설명](/lecture/1st_week_yyj.md)
 5. [조윤환 - ](/lecture/1st_week_jyh.md)
 
-## 1주차 스터디 내용
-
-### Machine Learning basic
-
-#### 발표자료
-
-1. [강길환](/lecture/1st_week_kkh.docx)
-2. [고명진](/lecture/1st_week_kmg.md)
-3. [김희건](/lecture/1st_week_khg.docx)
-4. [유영주](/lecture/1st_week_yyj.md)
-5. [조윤환](/lecture/1st_week_jyh.md)
-
-
 ## 2주차 스터디 내용
 
 ### Deep Learning Started
 
 #### 발표자료
 
-1. [강길환 - ](/lecture/2nd_week_kkh.docx)
-2. [고명진 - ](/lecture/2nd_week_kmj.md)
-3. [김희건 - ](/lecture/2nd_week_khg.docx)
-4. [유영주 - ](/lecture/2nd_week_yyj.md)
-5. [조윤환 - ](/lecture/2nd_week_jyh.docx)
-6. [허지훈 - ](/lecture/2nd_week_hjh.docx)
+1. [강길환 - Gradient Descent](/lecture/2nd_week_kkh.docx)
+2. [고명진 - XOR 문제 해결 방법, Backpropagation과 미분 기초](/lecture/2nd_week_kmj.md)
+3. [김희건 - 인공 신경망](/lecture/2nd_week_khg.docx)
+4. [유영주 - Multi-variable linear regression](/lecture/2nd_week_yyj.md)
+5. [조윤환 - Machine Learning의 종류와 선형 맞춤, 비선형 변환](/lecture/2nd_week_jyh.docx)
+6. [허지훈 - Softmax Regression](/lecture/2nd_week_hjh.docx)
 

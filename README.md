@@ -66,3 +66,12 @@
 5. [조윤환 - Machine Learning의 종류와 선형 맞춤, 비선형 변환](/lecture/2nd_week_jyh.docx)
 6. [허지훈 - Softmax Regression](/lecture/2nd_week_hjh.docx)
 
+
+## 3주차 스터디 내용
+
+### Using TensorFlow for Deep Learning!  
+
+#### 실습자료
+
+* [Anaconda를 활용한 Tensorflow, JupyterNotebook 설치](/lecture/3rd_week_acting.md) 
+
